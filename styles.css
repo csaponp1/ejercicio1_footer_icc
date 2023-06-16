@@ -1,0 +1,12 @@
+.header_inicio{
+    background-color: aqua;
+    position: static;
+}
+.pie{
+    background-image: url(imagenes/come_back.jfif);
+    padding-bottom: 130px;
+    font-family: 'comic sans ms';
+    font-weight: bold;
+    font-size: 25px;
+    color: cadetblue;
+}
